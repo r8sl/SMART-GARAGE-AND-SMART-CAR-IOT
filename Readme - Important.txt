@@ -1,0 +1,2 @@
+1-Regarding the wokwi schematic diagram, you can head to the presentation to find it
+2- A brief video is uploaded into the repository, for a more detailed video regarding the full project, please head to the output section in the presentation, you can find a google drive link to the full video
